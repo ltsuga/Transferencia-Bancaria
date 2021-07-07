@@ -1,4 +1,4 @@
-# Simple CLI Pokedex
+# Simple Bank application
 
 Digital Innovation One Project: Developing a simple banking application using dotNet.
 
